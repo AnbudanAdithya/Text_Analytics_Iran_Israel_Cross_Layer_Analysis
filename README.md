@@ -28,8 +28,6 @@ This project analyses how the Iran-Israel War (February–March 2026) is framed 
 24030302038_Master_Project/
 │
 ├── README.md                            ← You are here
-├── 24030302038_Report.docx              ← Project report
-├── 24030302038_TextAnalytics_Report.docx← Text analytics report
 │
 ├── Datasets/
 │   ├── Analysis Datasets/               ← Final cleaned datasets used for analysis
