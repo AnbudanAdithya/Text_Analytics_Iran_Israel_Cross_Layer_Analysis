@@ -1,0 +1,172 @@
+[
+  {
+    "source": "The Guardian",
+    "perspective": "UK / Western liberal",
+    "country_or_region": "United Kingdom",
+    "collection_method": "html_listing",
+    "opinion_type": "Comment / Opinion",
+    "listing_urls": [
+      {
+        "listing_name": "Comment is Free",
+        "listing_url": "https://www.theguardian.com/commentisfree"
+      }
+    ],
+    "allowed_url_hints": [
+      "/commentisfree/"
+    ],
+    "blocked_url_hints": [
+      "/all",
+      "/audio",
+      "/gallery",
+      "/video",
+      "/cartoon"
+    ]
+  },
+  {
+    "source": "Al Jazeera",
+    "perspective": "Qatar / Arab regional",
+    "country_or_region": "Qatar",
+    "collection_method": "html_listing",
+    "opinion_type": "Opinion",
+    "listing_urls": [
+      {
+        "listing_name": "Opinion",
+        "listing_url": "https://www.aljazeera.com/opinion/"
+      }
+    ],
+    "allowed_url_hints": [
+      "/opinion/",
+      "/opinions/"
+    ],
+    "blocked_url_hints": [
+      "/liveblog",
+      "/podcasts",
+      "/video"
+    ]
+  },
+  {
+    "source": "Arab News",
+    "perspective": "Saudi / Arab regional",
+    "country_or_region": "Saudi Arabia",
+    "collection_method": "html_listing",
+    "opinion_type": "Opinion / Letters",
+    "listing_urls": [
+      {
+        "listing_name": "Opinion",
+        "listing_url": "https://www.arabnews.com/opinion"
+      },
+      {
+        "listing_name": "Letters to the Editor",
+        "listing_url": "https://www.arabnews.com/category/main-category/opinion/letters"
+      }
+    ],
+    "allowed_url_hints": [
+      "/node/",
+      "/opinion",
+      "/letters"
+    ],
+    "blocked_url_hints": [
+      "/jobs",
+      "/rss",
+      "/contact"
+    ]
+  },
+  {
+    "source": "Jerusalem Post",
+    "perspective": "Israeli",
+    "country_or_region": "Israel",
+    "collection_method": "html_listing",
+    "opinion_type": "Opinion / Editorial",
+    "listing_urls": [
+      {
+        "listing_name": "Opinion",
+        "listing_url": "https://www.jpost.com/opinion"
+      }
+    ],
+    "allowed_url_hints": [
+      "/opinion"
+    ],
+    "blocked_url_hints": [
+      "/rss",
+      "/tags/",
+      "/conference",
+      "/premium"
+    ]
+  },
+  {
+    "source": "Indian Express",
+    "perspective": "Indian mainstream",
+    "country_or_region": "India",
+    "collection_method": "rss",
+    "opinion_type": "Opinion / Editorial",
+    "feed_urls": [
+      {
+        "listing_name": "Opinion",
+        "feed_url": "https://indianexpress.com/section/opinion/feed/"
+      },
+      {
+        "listing_name": "Editorials",
+        "feed_url": "https://indianexpress.com/section/opinion/editorials/feed/"
+      }
+    ],
+    "allowed_url_hints": [
+      "/opinion/"
+    ],
+    "blocked_url_hints": [
+      "/videos/",
+      "/photos/"
+    ]
+  },
+  {
+    "source": "Firstpost",
+    "perspective": "Indian digital",
+    "country_or_region": "India",
+    "collection_method": "rss",
+    "opinion_type": "Opinion",
+    "feed_urls": [
+      {
+        "listing_name": "Opinion",
+        "feed_url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/opinion.xml"
+      }
+    ],
+    "allowed_url_hints": [
+      "/opinion/"
+    ],
+    "blocked_url_hints": [
+      "/videos/",
+      "/photos/"
+    ]
+  },
+  {
+    "source": "Daily Sabah",
+    "perspective": "Turkish / regional",
+    "country_or_region": "Turkey",
+    "collection_method": "rss",
+    "opinion_type": "Opinion / Editorial / Reader letters",
+    "feed_urls": [
+      {
+        "listing_name": "Columns",
+        "feed_url": "https://www.dailysabah.com/rss/opinion/columns"
+      },
+      {
+        "listing_name": "Op-Ed",
+        "feed_url": "https://www.dailysabah.com/rss/opinion/op-ed"
+      },
+      {
+        "listing_name": "Reader's Corner",
+        "feed_url": "https://www.dailysabah.com/rss/opinion/readers-corner"
+      },
+      {
+        "listing_name": "Editorial",
+        "feed_url": "https://www.dailysabah.com/rss/opinion/editorial"
+      }
+    ],
+    "allowed_url_hints": [
+      "/opinion/"
+    ],
+    "blocked_url_hints": [
+      "/gallery",
+      "/video"
+    ]
+  }
+]

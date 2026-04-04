@@ -1,0 +1,25 @@
+{
+  "topic": "Public YouTube comments on the ongoing Iran-US war",
+  "lookback_days": 120,
+  "search_order": "date",
+  "relevance_language": "en",
+  "region_code": null,
+  "only_keep_english_comments": true,
+  "target_comment_language": "en",
+  "min_comment_chars_for_language_check": 8,
+  "min_language_confidence": 0.7,
+  "max_videos_per_query": 30,
+  "max_top_level_comments_per_video": 200,
+  "include_replies": true,
+  "max_replies_per_thread": 50,
+  "queries": [
+    "Iran US war",
+    "Iran US conflict",
+    "Iran US strikes",
+    "Iran Israel US war",
+    "Tehran Washington conflict",
+    "Iran retaliation against US",
+    "US attack on Iran",
+    "Iran missile strike US Middle East"
+  ]
+}

@@ -1,0 +1,9 @@
+stage,row_count,note
+file2_raw_loaded,388,Original File 2 (02_Iran_News_Full.csv) rows
+file2_filtered_credible_sources,332,Credible-source-only File 2 rows
+file2_reextraction_complete,332,"{""fallback_network_disabled"": 332}"
+file3_raw_loaded,400,Original File 3 (iran_us_news_20260323_200825.csv) RSS/Codex rows
+file3_filtered_quality,382,"relevance_score >= 5, full_text_chars >= 200, source != Sky News"
+file2_and_file3_concatenated,714,File 2 and File 3 corpora concatenated
+dedup_normalized_url,710,Removed 4 rows by normalized URL
+dedup_title_date,710,Removed 0 rows by normalized title + date
