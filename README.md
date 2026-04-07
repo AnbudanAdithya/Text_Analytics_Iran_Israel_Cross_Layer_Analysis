@@ -1,10 +1,10 @@
 # One War, Many Narratives
 ## A Multi-Layer Text Analytics Study of Media Framing of the Iran-Israel Conflict 2026
 
-**Course:** MBAG-408 — Text & Web Analytics
-**Roll Number:** 24030302038
-**Institution:** Sri Sathya Sai Institute of Higher Learning
-**Submission:** March 2026
+- **Course:** MBAG-408 — Text & Web Analytics
+- **Roll Number:** 24030302038
+- **Institution:** Sri Sathya Sai Institute of Higher Learning
+- **Submission:** March 2026
 
 ---
 
@@ -138,13 +138,9 @@ Only needed if you want to re-scrape fresh data.
 ## Key Findings
 
 1. **Narratives diverge measurably** — SVM classifier achieves 62.6% (News) and 86.2% (Editorial) accuracy predicting geopolitical perspective from text alone — 3× above random baseline.
-
 2. **The negativity gradient** — News (−0.639) → Editorial (−0.505) → YouTube (−0.132). The public is 4.9× less negative than institutional media about the same conflict.
-
 3. **The peace deficit** — The word "peace" appears 0.5 times per 100 news articles. Diplomacy topics receive 2.0% of news coverage and 0.0% of YouTube coverage.
-
 4. **Six different wars** — South Asian media frames it as an energy crisis; Russian media as US-Israeli aggression; Turkish media as a regional reconfiguration; Arab media as military operations with a Palestinian dimension; Western media as a leadership crisis; YouTube as spiritual warfare.
-
 5. **YouTube introduces unique frames** — Religious framing, conspiratorial cross-referencing, and direct moral accusation appear in YouTube comments but are absent from all 931 institutional documents.
 
 ---
